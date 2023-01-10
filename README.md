@@ -1,2 +1,5 @@
 # odin-recipes
-a recipe lesson in odin!
+A recipe lesson in odin!
+
+assignment link [here](https://www.theodinproject.com/lessons/foundations-recipes).
+

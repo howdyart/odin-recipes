@@ -23,18 +23,29 @@ p{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    border-radius: 15px;
+
 }
 
 ul li{
     font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
    
 }
 
 ol li{
     font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
     
 }
 
 header{
     font-family: 'Bitter', serif;
+}
+
+a{
+    color: black;
 }
